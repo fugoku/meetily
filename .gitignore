@@ -77,4 +77,6 @@ experiments/
 target/
 
 frontend/src-tauri/binaries/
-Cargo.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
